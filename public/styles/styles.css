@@ -1,0 +1,16 @@
+body{
+   background-color: lightskyblue;
+   text-align: center;
+}
+
+ul{
+   display: block;
+   border-bottom: 5px;
+   border-color: red solid 1px;
+}
+
+li{
+   display: inline-block;
+}
+
+
